@@ -1,7 +1,3 @@
-La incarcarea anterioara in vmchecker apare mesajul "Executable for problem 4 is missing", deoarece am facut o modificare neintentionata asupra codului si nu mi-am dat seama de aceasta in timp util.
-V-as ruga sa luati in considerare o incarcare mai veche a rezolvarilor in care am primit punctaj maxim (efectuata doar ca test, deoarece nu are un fisier README corespunzator sau comentarii) si pentru coding style si fisierul README ultima incarcare.
-In varianta din aceasta arhiva, task-urile 1, 2, 3 sunt identice, iar task-ul 4 este functional.
-
 TASK 1
 
 Durata implementarii: 2h
